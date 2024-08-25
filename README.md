@@ -23,10 +23,10 @@
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/eric-schmelzeis/)
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eschmelzeis&show_icons=true&theme=radical)
+![GitHub Stats](https://github-profile-stats-steel.vercel.app/api?username=eschmelzeis&show_icons=true&theme=dark)
 
 ### 🏆 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eschmelzeis&layout=compact&theme=radical)
+![Top Languages](https://github-profile-stats-steel.vercel.app/api/top-langs/?username=eschmelzeis&layout=compact&theme=dark)
 
 ### 💼 Projects
 - **[CloudSolv AI](https://cloudsolv.co):** CloudSolv AI is a company that specializes in providing AI solutions and consulting to businesses.
