@@ -29,9 +29,7 @@
 ![Top Languages](https://github-profile-stats-steel.vercel.app/api/top-langs/?username=eschmelzeis&layout=compact&theme=dark)
 
 ### 💼 Projects
-- **[CloudSolv AI](https://cloudsolv.co):** CloudSolv AI is a company that specializes in providing AI solutions and consulting to businesses.
-- **[CtrlVisual](https://ctrlvisual.com):** CtrlVisual is a company that provides an AI-driven visualizer used for optimizing cloud infrastructure.
-- **[solv-ai](https://github.com/CloudSolv-AI/solv-ai):** solv-ai is an in-development Python library for optimizing the performance of local machine learning models, enabling them to run on less expensive hardware. The PyPI package is available [here](https://pypi.org/project/solv-ai/).
+- **[CloudSolv AI](https://cloudsolv.co):** CloudSolv AI is a company that specializes in providing solutions and consulting to businesses.
 
 ---
 
